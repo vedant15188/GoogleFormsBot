@@ -2,11 +2,13 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import csv
 
-csv_file = open("./data.csv", "r")
-
-driver = webdriver.Firefox()
+csv_file = open("Part2/data.csv", "r")
+driver = webdriver.Remote(command_executor='http://localhost:4444/wd/hub',
+                          desired_capabilities=DesiredCapabilities.FIREFOX)
+# driver = webdriver.Firefox()
 
 reader = csv.reader(csv_file)
 
