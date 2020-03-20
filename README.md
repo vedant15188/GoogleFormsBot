@@ -16,6 +16,8 @@ Deploy the Kubernetes master node onto a VPS. Feel free to make use of the free 
 
 #Bonus round:
 Do one or more of the below tasks to establish your credibility even further. These tasks are not mandatory, however, they will help you with your application:
+
+
 1. Use django-channels to create a websocket channel with which your Selenium script may communicate to tell the server what it is doing.
 
       a. For example, sending the message “Extracting data from Excel file” to the django-channels server
