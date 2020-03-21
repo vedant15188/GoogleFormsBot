@@ -22,7 +22,7 @@ for row in soup.find_all("tr"):
     op_row = []
     for i in range(len(cols)):
         temp = cols[i].text
-        if("an" in temp and i == 0):
+        if("an" in temp.lower() and i == 0):
             break
         else:
             op_row.append(temp)
