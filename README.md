@@ -19,20 +19,19 @@ Do one or more of the below tasks to establish your credibility even further. Th
 
 
 1. Use django-channels to create a websocket channel with which your Selenium script may communicate to tell the server what it is doing.
-
+      
       a. For example, sending the message “Extracting data from Excel file” to the django-channels server
 
 
+
 2. Use React.js and Redux to create a frontend interface that communicates with any websocket data feed to show data in real-time
-
-
+      
       a. Look into https://www.npmjs.com/package/@giantmachines/redux-websocket
 
 
+
 3. Create a CI/CD pipeline using Jenkins to accomplish the following tasks:
-
-
-      a. Package the selenium script into a docker container
       
+      a. Package the selenium script into a docker container
       
       b. Push the image to docker hub
