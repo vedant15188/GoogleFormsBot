@@ -1,9 +1,9 @@
 import codecs
 from bs4 import BeautifulSoup
 
-csv = open("./data.csv", "a+")
+csv = open("Part1/data.csv", "a+")
 
-html_raw = codecs.open("./index.html", 'r')
+html_raw = codecs.open("Part1/index.html", 'r')
 html = html_raw.read()
 
 soup = BeautifulSoup(html, features="html.parser")

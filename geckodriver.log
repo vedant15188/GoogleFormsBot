@@ -15,3 +15,80 @@ JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfM
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1584813517754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VEDANT~1\\AppData\\Local\\Temp\\rust_mozprofileYne2od"
+1584813521246	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584813522122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584813522122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584813522123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584813522123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584813531175	Marionette	INFO	Listening on port 56657
+1584813531755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+1584813627715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+1584813635611	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+1584813646674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+1584813651377	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.KfMF9gNEp9c.O/d=1/ct=zgms/rs=AMjVe6i2juxmo2j3Ao0PmayU3GbpLTP5pg/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+1584813734793	Marionette	INFO	Stopped listening on port 56657
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,5 +1,0 @@
-FROM selenium/hub:3.141.59
-EXPOSE 80
-EXPOSE 443
-EXPOSE 4444
-VOLUME /dev/shm:/dev/shm
