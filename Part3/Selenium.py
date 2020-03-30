@@ -6,8 +6,9 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import csv
 
 csv_file = open("Part2/data.csv", "r")
-driver = webdriver.Remote(command_executor='http://localhost:4444/wd/hub',
+driver = webdriver.Remote(command_executor='http://13.235.128.207:32184/wd/hub',
                           desired_capabilities=DesiredCapabilities.FIREFOX)
+# driver = webdriver.Firefox()
 
 reader = csv.reader(csv_file)
 
