@@ -6,7 +6,7 @@ metadata:
   labels:
     app: selenium-node-firefox
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: selenium-node-firefox
@@ -34,5 +34,5 @@ spec:
               value: "4444"
           resources:
             limits:
-              memory: "1000Mi"
+              memory: "500Mi"
               cpu: ".5"
